@@ -1,0 +1,1 @@
+# calculadora_partidas_hankeadas
